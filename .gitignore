@@ -1,0 +1,13 @@
+# Ignora caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora arquivos de build/distribuição
+build/
+dist/
+*.egg-info/
+
+# Ignora configs locais
+.env
