@@ -1,4 +1,3 @@
-![Descrição da Imagem](public/logo.png)
 <img src="public/logo.png" alt="Descrição" width="300"/>
 
 Um experimento inspirado no React, recriado em Python usando CustomTkinter.
